@@ -1,2 +1,2 @@
 # Python-Exercises
-Set of files in Python language of the exercises performed.
+Compilation of exercise files coded in Python for reference and review
